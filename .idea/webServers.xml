@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="90ef3e83-0127-425d-8daf-28119977436d" name="Hôte SSH : ssh-ruzanna.alwaysdata.net" url="https://ruzanna.alwaysdata.net/">
+        <fileTransfer rootFolder="/home/ruzanna/www" accessType="SFTP" host="ssh-ruzanna.alwaysdata.net" port="22" sshConfigId="bbafb4ea-9b78-4664-a066-12f0b2b7a795" sshConfig="ruzanna@ssh-ruzanna.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
